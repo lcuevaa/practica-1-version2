@@ -1,0 +1,11 @@
+C:\Users\cueva\OneDrive\Escritorio\practica1Cueva\practicarAutito\CapaEntidades\bin\Debug\net8.0-windows\CapaEntidades.deps.json
+C:\Users\cueva\OneDrive\Escritorio\practica1Cueva\practicarAutito\CapaEntidades\bin\Debug\net8.0-windows\CapaEntidades.dll
+C:\Users\cueva\OneDrive\Escritorio\practica1Cueva\practicarAutito\CapaEntidades\bin\Debug\net8.0-windows\CapaEntidades.pdb
+C:\Users\cueva\OneDrive\Escritorio\practica1Cueva\practicarAutito\CapaEntidades\obj\Debug\net8.0-windows\CapaEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cueva\OneDrive\Escritorio\practica1Cueva\practicarAutito\CapaEntidades\obj\Debug\net8.0-windows\CapaEntidades.AssemblyInfoInputs.cache
+C:\Users\cueva\OneDrive\Escritorio\practica1Cueva\practicarAutito\CapaEntidades\obj\Debug\net8.0-windows\CapaEntidades.AssemblyInfo.vb
+C:\Users\cueva\OneDrive\Escritorio\practica1Cueva\practicarAutito\CapaEntidades\obj\Debug\net8.0-windows\CapaEntidades.vbproj.CoreCompileInputs.cache
+C:\Users\cueva\OneDrive\Escritorio\practica1Cueva\practicarAutito\CapaEntidades\obj\Debug\net8.0-windows\CapaEntidades.dll
+C:\Users\cueva\OneDrive\Escritorio\practica1Cueva\practicarAutito\CapaEntidades\obj\Debug\net8.0-windows\refint\CapaEntidades.dll
+C:\Users\cueva\OneDrive\Escritorio\practica1Cueva\practicarAutito\CapaEntidades\obj\Debug\net8.0-windows\CapaEntidades.pdb
+C:\Users\cueva\OneDrive\Escritorio\practica1Cueva\practicarAutito\CapaEntidades\obj\Debug\net8.0-windows\ref\CapaEntidades.dll

@@ -1,0 +1,17 @@
+C:\Users\cueva\OneDrive\Escritorio\practica1Cueva\practicarAutito\CapaNegocio\bin\Debug\net8.0-windows\CapaNegocio.deps.json
+C:\Users\cueva\OneDrive\Escritorio\practica1Cueva\practicarAutito\CapaNegocio\bin\Debug\net8.0-windows\CapaNegocio.dll
+C:\Users\cueva\OneDrive\Escritorio\practica1Cueva\practicarAutito\CapaNegocio\bin\Debug\net8.0-windows\CapaNegocio.pdb
+C:\Users\cueva\OneDrive\Escritorio\practica1Cueva\practicarAutito\CapaNegocio\obj\Debug\net8.0-windows\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cueva\OneDrive\Escritorio\practica1Cueva\practicarAutito\CapaNegocio\obj\Debug\net8.0-windows\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\cueva\OneDrive\Escritorio\practica1Cueva\practicarAutito\CapaNegocio\obj\Debug\net8.0-windows\CapaNegocio.AssemblyInfo.vb
+C:\Users\cueva\OneDrive\Escritorio\practica1Cueva\practicarAutito\CapaNegocio\obj\Debug\net8.0-windows\CapaNegocio.vbproj.CoreCompileInputs.cache
+C:\Users\cueva\OneDrive\Escritorio\practica1Cueva\practicarAutito\CapaNegocio\obj\Debug\net8.0-windows\CapaNegocio.dll
+C:\Users\cueva\OneDrive\Escritorio\practica1Cueva\practicarAutito\CapaNegocio\obj\Debug\net8.0-windows\refint\CapaNegocio.dll
+C:\Users\cueva\OneDrive\Escritorio\practica1Cueva\practicarAutito\CapaNegocio\obj\Debug\net8.0-windows\CapaNegocio.pdb
+C:\Users\cueva\OneDrive\Escritorio\practica1Cueva\practicarAutito\CapaNegocio\obj\Debug\net8.0-windows\ref\CapaNegocio.dll
+C:\Users\cueva\OneDrive\Escritorio\practica1Cueva\practicarAutito\CapaNegocio\obj\Debug\net8.0-windows\CapaNegocio.vbproj.AssemblyReference.cache
+C:\Users\cueva\OneDrive\Escritorio\practica1Cueva\practicarAutito\CapaNegocio\bin\Debug\net8.0-windows\CapaDatos.dll
+C:\Users\cueva\OneDrive\Escritorio\practica1Cueva\practicarAutito\CapaNegocio\bin\Debug\net8.0-windows\CapaEntidades.dll
+C:\Users\cueva\OneDrive\Escritorio\practica1Cueva\practicarAutito\CapaNegocio\bin\Debug\net8.0-windows\CapaDatos.pdb
+C:\Users\cueva\OneDrive\Escritorio\practica1Cueva\practicarAutito\CapaNegocio\bin\Debug\net8.0-windows\CapaEntidades.pdb
+C:\Users\cueva\OneDrive\Escritorio\practica1Cueva\practicarAutito\CapaNegocio\obj\Debug\net8.0-windows\CapaNego.7FCCD464.Up2Date
